@@ -15,6 +15,7 @@
 
 ---
 
+- 🎓 **Ciência da Computação** FIB - Faculdades integradas de Bauru 
 - 💻 Focado em desenvolvimento **Full-Stack** e arquiteturas robustas.
 - 🚀 Experiência com **React** para frontends modernos e **Java/PHP** para backends.
 - 🛠️ Habilidade com frameworks **Spring Boot** e bancos de dados **MySQL**.
