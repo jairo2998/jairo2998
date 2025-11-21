@@ -43,7 +43,7 @@ Confira meus projetos recentes que demonstram as habilidades acima:
 
 * **MiniBlog (React, Hooks & Firebase):** Uma Single Page Application (SPA) completa, com autenticação (Login, Registro, Logout), rotas protegidas e manipulação de dados em tempo real com Firebase.
 * **Agenda Simples (PHP & MySQL):** Sistema web que implementa um CRUD completo para gerenciamento de contatos, utilizando PHP no backend e MySQL para persistência de dados.
-
+* **Rede social para avaliação de filmes (PHP & MySQL):** Sistema web que implementa CRUD completo, além de autenticação e restrição de acessos. Usuários logados podem postar filmes (com imagem, descrição e trailers), e outros usuários podem avaliar e deixar comentários.
 ---
 
 ## 📈 Estatísticas do GitHub
